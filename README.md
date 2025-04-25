@@ -1,6 +1,6 @@
 # Consumer Ad-hoc Insights for AtliQ Hardware
 
-📌 Project Overview
+## 📌 Project Overview
 Analyzed ad-hoc business queries using SQL and Power BI to help AtliQ Hardwares make data-driven decisions.
 
 ## 🏢 Business Problem
